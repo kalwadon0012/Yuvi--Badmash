@@ -116,7 +116,7 @@
     },
     "sing": {
         "API_KEY": "AIzaSyDdzsxzYZAoBCxF-TXQyVhd52_Tslu-FXU",
-        "YOUTUBE_API": "AIzaSyDdzsxzYZAoBCxF-TXQyVhd52_Tslu-FXU",
+        "YOUTUBE_API": "AIzaSyAaZTAiQgnCLTWNwoeVbrCeZVaqdapMQbc",
         "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
     },
     "tiktok": {
@@ -167,25 +167,25 @@
         "APIKEY": ""
     },
     "video2": {
-        "YOUTUBE_API": "AIzaSyAE4wH3OSfPUjJZTJvByQfXhEuaBMXjzAA"
+        "YOUTUBE_API": "AIzaSyAaZTAiQgnCLTWNwoeVbrCeZVaqdapMQbc"
     },
     "nganhang": {
         "key": "DUBFREE"
     },
     "video": {
-        "YOUTUBE_API": "AIzaSyAE4wH3OSfPUjJZTJvByQfXhEuaBMXjzAA"
+        "YOUTUBE_API": "AIzaSyAaZTAiQgnCLTWNwoeVbrCeZVaqdapMQbc"
     },
     "music": {
-        "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+        "YOUTUBE_API": "AIzaSyAaZTAiQgnCLTWNwoeVbrCeZVaqdapMQbc"
     },
     "mine": {
         "APIKEY": ""
     },
     "youtube": {
-        "YOUTUBE_API": "AIzaSyBNqRSYmQ9D1WWIa186k8nSvo5mr2Rvk5M"
+        "YOUTUBE_API": "AIzaSyAaZTAiQgnCLTWNwoeVbrCeZVaqdapMQbc"
     },
     "ytb": {
-        "YOUTUBE_API": "AIzaSyBNqRSYmQ9D1WWIa186k8nSvo5mr2Rvk5M"
+        "YOUTUBE_API": "AIzaSyAaZTAiQgnCLTWNwoeVbrCeZVaqdapMQbc"
     },
     "voice": {
         "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
@@ -198,7 +198,7 @@
         "APIKEY": "tdunguwu"
     },
     "radio": {
-        "YOUTUBE_API": "AIzaSyA81xmaIo6uozgapDe7_yDjFfnOwkfx_XA"
+        "YOUTUBE_API": "AIzaSyAaZTAiQgnCLTWNwoeVbrCeZVaqdapMQbc"
     },
     "mkt": {
         "APIKEY": "tdunguwu"
@@ -220,7 +220,7 @@
         "cooldownTime": 1000000
     },
     "sing2": {
-        "YOUTUBE_API": "AIzaSyBPdGN3eMhswfSKWoaomzdlEftf3NjV1gM",
+        "YOUTUBE_API": "AIzaSyAaZTAiQgnCLTWNwoeVbrCeZVaqdapMQbc",
         "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
     },
     "god": {
