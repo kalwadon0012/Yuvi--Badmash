@@ -544,15 +544,15 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "bot ka owner") || (event.body.toLowerCase() == "create you")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙PRINCE🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐫 𝐀𝐚𝐫𝐲𝐚𝐧. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://www.facebook.com/PRINCE SILENT.HERE", threadID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙 ABHISHEK 🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐫 abhi. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://https://www.facebook.com/profile.php?id=100087527031197", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("Aaryan Sharabi ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Raha Karo. Har Waqt Haste Raho.", threadID);
+     return api.sendMessage("Abhishek singh❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Raha Karo. Har Waqt Haste Raho.", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon hai")) {
-     return api.sendMessage("He is Aaryan Sharabi. He Gives his name Mr Aaryan everywhare", threadID);
+     return api.sendMessage("He is abhishek singh. He Gives his name Mr ABhishek everywhare", threadID);
    };
 
    if ((event.body.toLowerCase() == "@pihu rajput") || (event.body.toLowerCase() == "@Ishika Ranaa")) {
