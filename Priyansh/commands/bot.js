@@ -469,8 +469,8 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("Ari mori maiyya e ka dekh liyo👻💀", threadID);
    };
 
-      if ((event.body.toLowerCase() == "🖕") || (event.body.toLowerCase() == "🖕🖕")) {
-     return api.sendMessage("Bund Me LeLe ApNi Bhens Chor 😂😂😂", threadID);
+      if ((event.body.toLowerCase() == "🔪") || (event.body.toLowerCase() == "🖕🖕")) {
+     return api.sendMessage("chaku se dar lgta hai kahi kat na jaye 🥹 😂😂😂", threadID);
    };
 
       if ((event.body.toLowerCase() == "💉") || (event.body.toLowerCase() == "💊")) {
