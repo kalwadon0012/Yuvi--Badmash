@@ -98,7 +98,7 @@ module.exports.run = async function ({ Users, Threads, api, event }) {
 
   // 📨 Send message
   return api.sendMessage({
-    body: `${header}\n━━━━━━━━━━━━━━\n💑 ${name1} ❤️ ${name2}\n${shayari}\n❤️ Compatibility: ${rating}\n━━━━━━━━━━━━━━\n🔱 Powered by Rudra`,
+    body: `${header}\n━━━━━━━━━━━━━━\n💑 ${name1} ❤️ ${name2}\n${shayari}\n❤️ Compatibility: ${rating}\n━━━━━━━━━━━━━━\n🔱 Powered by 𝐘𝐔𝐕𝐈 𝐓𝐇𝐀𝐊𝐔𝐑`,
     mentions: [{ tag: name2, id: id2 }],
     attachment: fs.createReadStream(pathImg)
   }, event.threadID, () => fs.unlinkSync(pathImg), event.messageID);
