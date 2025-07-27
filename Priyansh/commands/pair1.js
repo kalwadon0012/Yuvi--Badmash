@@ -77,9 +77,5 @@ module.exports.run = async function({ api, event, args, Users, Threads, Currenci
         var sex = await data[id].gender;
         var gender = sex == 2 ? "Male🧑" : sex == 1 ? "Female👩‍🦰" : "Tran Duc Bo";
 var one = senderID, two = id;
-    return makeImage({ one, two }).then(path => api.sendMessage({ body:`🌸===『*★𝗖𝗿𝗲𝗱𝗶𝘁'𝘀 𒁍✬✿╭┳✪✪╤───────────➛➣ ★�*★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊 𝐒𝐈𝐍𝐆𝐇🍀🍒💐)✪��★  ✬✿╭┳✪✪╤───────────➛➣____________________________________________________________________‎‎[•||•●•||•┼┼──🌸𝐓ʋ𝗺𝘀𝗮 𝐊❍ıı 𝐏ɣ𝗮𝗮ɽ𝗮 𝐊❍ıı  𝐌𝗮𝘀❍𝗺 𝐍𝗮Ħıı 𝐇𝐚ıı•||•🐬•||•]]
-🌹✦━━━━━🌹━━🌹━━━━━✦🌹
-\n[•||•●•||•┼┼──🌸🌿𝐓ʋ𝗺 𝐉𝗮𝗮η  𝐇❍ 𝐌ƏɽƏ 𝐓ʋ𝗺ĦƏ 𝐌𝗮ɭʋ𝗺 𝐍𝗮Ħıı 𝐇𝐚ıı•||•🌸•||• ]]
-🌹✦━━━━━🌹━━🌹━━━━━✦🌹
-\n𝐀𝐩𝐩 𝐃𝐨𝐍𝐨 𝐊𝐚 𝐏𝐚𝐢𝐑👉 ${tle} HAIN 🤐👈\n`+{namee} was paired with ${name}\nPair odds are: ${tle}`, mentions: arraytag, attachment: fs.createReadStream(path) }, threadID, () => fs.unlinkSync(path), messageID));
+    return makeImage({ one, two }).then(path => api.sendMessage({ body:`Congratulations ${namee} was paired with ${name}\nPair odds are: ${tle}`, mentions: arraytag, attachment: fs.createReadStream(path) }, threadID, () => fs.unlinkSync(path), messageID));
   }
