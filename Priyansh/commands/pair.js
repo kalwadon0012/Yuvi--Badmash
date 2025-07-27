@@ -100,12 +100,10 @@ module.exports.run = async function ({ args, Users, Threads, api, event, Currenc
   fs.writeFileSync(pathImg, imageBuffer);
   fs.removeSync(pathAvt1);
   fs.removeSync(pathAvt2);
-  return api.sendMessage({ body: `Congratulations ${name1} successfully paired with ${name2}\nThe odds are ${tile}%`,
-            mentions: [{
-          tag: `${name2}`,
-          id: id2
-        }], attachment: fs.createReadStream(pathImg) },
-      event.threadID,
-      () => fs.unlinkSync(pathImg),
-      event.messageID);
-  }
+  return api.sendMessage({ body: `🌸===『*★𝗖𝗿𝗲𝗱𝗶𝘁'𝘀 𒁍✬✿╭┳✪✪╤───────────➛➣ ★�*★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊 𝐒𝐈𝐍𝐆𝐇🍀🍒💐)✪��★  ✬✿╭┳✪✪╤───────────➛➣____________________________________________________________________‎‎[•||•●•||•┼┼──🌸𝐓ʋ𝗺𝘀𝗮 𝐊❍ıı 𝐏ɣ𝗮𝗮ɽ𝗮 𝐊❍ıı  𝐌𝗮𝘀❍𝗺 𝐍𝗮Ħıı 𝐇𝐚ıı•||•🐬•||•]]
+🌹✦━━━━━🌹━━🌹━━━━━✦🌹
+\n[•||•●•||•┼┼──🌸🌿𝐓ʋ𝗺 𝐉𝗮𝗮η  𝐇❍ 𝐌ƏɽƏ 𝐓ʋ𝗺ĦƏ 𝐌𝗮ɭʋ𝗺 𝐍𝗮Ħıı 𝐇𝐚ıı•||•🌸•||• ]]
+🌹✦━━━━━🌹━━🌹━━━━━✦🌹
+\n𝐀𝐩𝐩 𝐃𝐨𝐍𝐨 𝐊𝐚 𝐏𝐚𝐢𝐑👉 ${tle} HAIN 🤐👈\n`+namee+" "+"♥️"+" "+name, mentions: arraytag, attachment: imglove}
+        return api.sendMessage(msg, event.threadID, event.messageID)
+}
