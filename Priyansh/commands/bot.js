@@ -537,22 +537,22 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("Main Hu na jaani ❤️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "suno chiku") || (event.body.toLowerCase() == "chiku") || (event.body.toLowerCase() == "kaha ho chiku") || (event.body.toLowerCase() == "boss")) {
+   if ((event.body.toLowerCase() == "suno कलुआ") || (event.body.toLowerCase() == "kalua") || (event.body.toLowerCase() == "kaha ho Yuvi") || (event.body.toLowerCase() == "boss")) {
      return api.sendMessage( "Busy Honge Work Me😑Main t0 Hoon yar 😘",threadID);
 
 
    };
 
    if ((event.body.toLowerCase() == "bot ka owner") || (event.body.toLowerCase() == "create you")) {
-     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙 ABHISHEK 🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐫 abhi. 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://https://www.facebook.com/profile.php?id=100087527031197", threadID);
+     return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞➸⃝🐼⃝⃞⃟💙 कलुआ डॉन 🎸  ☜ 𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐌𝐫 कलुआ . 𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :https://https://www.facebook.com/profile.php?id=100074809252080", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("Abhishek singh❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Raha Karo. Har Waqt Haste Raho.", threadID);
+     return api.sendMessage("कलुआ डॉन❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Latkaye Mat Raha Karo. Har Waqt Haste Raho.", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon hai")) {
-     return api.sendMessage("He is abhishek singh. He Gives his name Mr ABhishek everywhare", threadID);
+     return api.sendMessage("He is कलुआ डॉन . He Gives his name Mr कलुआ डॉन everywhare", threadID);
    };
 
    if ((event.body.toLowerCase() == "@pihu rajput") || (event.body.toLowerCase() == "@Ishika Ranaa")) {
@@ -607,8 +607,8 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("️m toh Andha Hu Dekh nhi sakta😜", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Aaryan kon h") || (event.body.toLowerCase() =="Neha kon h")) {
-     return api.sendMessage("️Aafat or Chiku ek dusre ki jan hai😍😍💞", threadID);
+   if ((event.body.toLowerCase() == "कलुआ ") || (event.body.toLowerCase() =="kalua")) {
+     return api.sendMessage("Rani ki jan hai😍😍💞", threadID);
    };
 
    if ((event.body.toLowerCase() == "love you janu😘") || (event.body.toLowerCase() == "mujhe bhi love you bol")) {
@@ -664,7 +664,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "boat") || (event.body.toLowerCase() == "Boat")) {
-     return api.sendMessage("𝐁𝐨𝐭 𝐧𝐚𝐡𝐢 𝐑𝐚𝐧𝐢 𝐛𝐨𝐥𝐨 𝐏𝐚𝐠𝐚𝐥", threadID);
+     return api.sendMessage("𝐁𝐨𝐭 𝐧𝐚𝐡𝐢  Babu 𝐛𝐨𝐥𝐨 𝐏𝐚𝐠𝐚𝐥", threadID);
    };
    mess = "{name}"
 
@@ -674,7 +674,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
           ${rand} 🤣🍁❤
 
 
-           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊 𝐒𝐈𝐍𝐆𝐇🍀🍒💐🍀🍒`
+           *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐌𝐑.कलुआ डॉन🍀🍒💐🍀🍒`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
